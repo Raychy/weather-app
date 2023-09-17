@@ -17,7 +17,7 @@
               @keyup.enter="organizeAllDetails"
             />
             <button id="search-btn" @click="organizeAllDetails">
-              <img src="./assets/Search.svg" width="24" height="24" />
+              <img src="./assets/search.svg" width="24" height="24" />
             </button>
           </div>
           <div id="info">
